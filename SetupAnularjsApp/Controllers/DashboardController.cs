@@ -12,7 +12,7 @@ namespace SetupAnularjsApp.Controllers
         // GET: /Dashboard/
         public ActionResult Index()
         {
-            // Shamim dsfdsf
+            // Shamim 123
             return View();
         }
 	}
